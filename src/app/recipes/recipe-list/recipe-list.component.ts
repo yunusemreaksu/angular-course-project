@@ -11,7 +11,12 @@ export class RecipeListComponent {
     new Recipe(
       'A Test Recipe',
       'This is simply a test',
-      'https://unsplash.com/photos/hwy3W3qFjgM'
+      'https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/british_shakshuka_26737_16x9.jpg'
+    ),
+    new Recipe(
+      'A Test Recipe',
+      'This is simply a test',
+      'https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/british_shakshuka_26737_16x9.jpg'
     ),
   ];
 }
